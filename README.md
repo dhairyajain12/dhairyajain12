@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Jain</h1>
-<h3 align="center">A passionate android developer from Mumbai, India</h3>
+<h3 align="center">A passionate android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhairyajain12&label=Profile%20views&color=0e75b6&style=flat" alt="dhairyajain12" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhairyajainrocks@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BOYdWKrBCBZHj5BVziCjws6hx7FNDmwh/view?usp=drive_link](https://drive.google.com/file/d/1BOYdWKrBCBZHj5BVziCjws6hx7FNDmwh/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Z0kDESJo0VqDYPlpSQxQiUVeIWCXDSNw/view?usp=share_link](https://drive.google.com/file/d/1Z0kDESJo0VqDYPlpSQxQiUVeIWCXDSNw/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am cool.**
 
